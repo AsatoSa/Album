@@ -1,0 +1,38 @@
+  .class-icon {
+    padding: 0 14px;
+  }
+  .toolber-title {
+    padding: 12px 0;
+  }
+  .spacer {
+    flex: 1 1 auto;
+  }
+
+  .album-body {
+    padding: 12px;
+  }
+
+  .mdc-image-list__image {
+    object-fit: cover;
+  }
+
+ .file-name {
+    display: inline-block;
+    margin: 8px;
+  }
+
+  ol {
+    list-style-type: none;
+  }
+
+  .image-clear {
+    position: absolute;
+
+    opacity: 0.6;
+
+    -webkit-transform: translate3d(0,0,0);
+    transform: translate3d(0,0,0);
+
+    // サイズ指定
+    // padding: 1px;
+}
